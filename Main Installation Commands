@@ -29,3 +29,4 @@ http://dev.mysql.com/downloads/file.php?id=457912
 wget https://cdn.mysql.com//archives/mysql-connector-java-5.1/mysql-connector-java-5.1.36.zip
 sudo unzip mysql-connector-java-5.1.36.zip
 sudo cp mysql-connector-java-5.1.36-bin.jar /opt/atlassian/jira/lib/
+http://www.domainname.com:8080
